@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-void print() {
+void print(arr,n,m) {
 
     //4 variables
     int startRow = 0;
